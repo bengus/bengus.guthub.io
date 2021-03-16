@@ -1,0 +1,127 @@
+{
+    "order_forms_description": [
+        {
+            "form_type": "asap",
+            "form_description": {
+                "header": {
+                    "icon": {
+                        "name": "clock",
+                        "is_badge_indicated": false
+                    },
+                    "primary_badge_text": null,
+                    "secondary_badge_text": null,
+                    "title": "Как можно скорее",
+                    "subtitle": "Доставим сразу, как только курьер возьмет заказ.",
+                    "primary_amount_text": "от 150 ₽",
+                    "secondary_amount_text": null
+                },
+                "entries": [
+                    {
+                        "icons": [
+                            {
+                                "name": "walk",
+                                "is_badge_indicated": false
+                            },
+                            {
+                                "name": "car",
+                                "is_badge_indicated": false
+                            }
+                        ],
+                        "title": "Доставим пешком, на авто или грузовике"
+                   },
+                   {
+                        "icons": [
+                            {
+                                "name": "person",
+                                "is_badge_indicated": true
+                            }
+                        ],
+                        "title": "Самые опытные курьеры"
+                   }
+                ]
+            }
+        },
+        {
+            "form_type": "standard",
+            "form_description": {
+                "header": {
+                    "icon": {
+                        "name": "calendar",
+                        "is_badge_indicated": false
+                    },
+                    "primary_badge_text": null,
+                    "secondary_badge_text": null,
+                    "title": "Запланировать",
+                    "subtitle": "Доставим в удобное вам время, как только курьер возьмет заказ.",
+                    "primary_amount_text": "от 150 ₽",
+                    "secondary_amount_text": null
+                },
+                "entries": [
+                    {
+                        "icons": [
+                            {
+                                "name": "walk",
+                                "is_badge_indicated": false
+                            },
+                            {
+                                "name": "car",
+                                "is_badge_indicated": false
+                            }
+                        ],
+                        "title": "Доставим пешком, на авто или грузовике"
+                   },
+                   {
+                        "icons": [
+                            {
+                                "name": "person",
+                                "is_badge_indicated": true
+                            }
+                        ],
+                        "title": "Самые опытные курьеры"
+                   }
+                ]
+            }
+        },
+        {
+            "form_type": "sameday",
+            "form_description": {
+                "header": {
+                    "icon": {
+                        "name": "clock",
+                        "is_badge_indicated": false
+                    },
+                    "primary_badge_text": "Premium",
+                    "secondary_badge_text": "≈45 мин",
+                    "title": "Как можно скорее",
+                    "subtitle": "Моментально назначим курьера бла бла бла",
+                    "primary_amount_text": "от 200 ₽",
+                    "secondary_amount_text": "за адрес"
+                },
+                "entries": [
+                     {
+                          "icons": [
+                              {
+                                  "name": "walk",
+                                  "is_badge_indicated": false
+                              },
+                              {
+                                  "name": "car",
+                                  "is_badge_indicated": false
+                              }
+                          ],
+                          "title": "Доставим пешком, на авто или грузовике"
+                     },
+                     {
+                          "icons": [
+                              {
+                                  "name": "person",
+                                  "is_badge_indicated": true
+                              }
+                          ],
+                          "title": "Самые опытные курьеры"
+                     }
+                ]
+            }
+        }
+    ]
+}
